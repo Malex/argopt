@@ -1,0 +1,9 @@
+ A new object oriented module to parse
+ command line arguments.
+
+ Imho, getopt is not nice enough, since
+ it isn't object-oriented, and I dislike
+ its parsing system.
+
+ So, I'll write this simple but powerful
+ module.
